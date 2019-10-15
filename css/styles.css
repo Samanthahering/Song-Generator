@@ -1,0 +1,25 @@
+body, html{
+  margin: 0;
+  height: 100%;
+}
+
+.picture{
+  background-image: url("../images/music.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+.text-space{
+    font-size: 50px;
+    text-align: center;
+    padding: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button-space{
+    text-align: center;
+    padding-top: 70px;
+    font-family: 'Montserrat', sans-serif;
+}
